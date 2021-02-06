@@ -1,4 +1,5 @@
 # This program prints out a random fruit
+# Author: Jonathon Grealish
 
 import random
 

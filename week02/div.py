@@ -1,6 +1,7 @@
 # This program reads two numbers and
 # will output the integer answer
 # and the remainder if applicable.
+# Author: Jonathon Grealish
 
 x = int(input("Enter first number: "))
 y = int(input("Enter the number you want to divide by: "))

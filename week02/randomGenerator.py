@@ -1,5 +1,6 @@
 # Program that prints out a random number
 # between 1 and 10
+# Author: Jonathon Grealish
 
 import random
 

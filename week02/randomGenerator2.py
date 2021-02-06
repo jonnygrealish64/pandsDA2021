@@ -1,5 +1,6 @@
 # Program that prints out a random number
 # between a user's inputted range
+# Author: Jonathon Grealish
 
 import random
 
