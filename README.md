@@ -1,2 +1,2 @@
-# pandsDA2021
-Programming &amp; Scripting
+# pands-practice
+P&amp;S Practice Questions
